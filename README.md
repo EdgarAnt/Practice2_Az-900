@@ -1,6 +1,6 @@
 # Creation of an app service in azure.
 
-##Practice 2
+## Practice 2
 
 We use a restaurant web page to share it with the azure app service.
 We enter the azure portal([azure](https://portal.azure.com/)) search and enter app service
